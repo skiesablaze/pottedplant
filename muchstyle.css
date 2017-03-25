@@ -1,0 +1,26 @@
+@font-face
+{
+    font-family:"Plant Symbols";
+    src: url('http://dl.dafont.com/dl/?f=leafs');
+
+}
+
+body {
+    background-color: lime;
+    font-family: Papyrus;
+    font-size: x-large;
+    font-weight: bold;
+}
+h1 {
+    color: Black;
+}
+p {
+    color: blue;
+}
+h2 {
+
+    color: Red;
+    font-family: C
+
+
+}
