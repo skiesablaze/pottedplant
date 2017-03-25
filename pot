@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Potted Plant Simulator</title>
+        <link rel="stylesheet" type="text/css" href="muchstyle.css">
+    </head>
+    <body>
+
+    </body>
+</html>
