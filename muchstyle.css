@@ -1,6 +1,10 @@
+<!--custome font-->
+<link href="http://dl.dafont.com/dl/?f=leafs" rel="stylesheet">
+
+
 @font-face
 {
-    font-family:"Plant Symbols";
+    font-family:'leafs';
     src: url('http://dl.dafont.com/dl/?f=leafs');
 
 }
