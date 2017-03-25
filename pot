@@ -6,6 +6,12 @@
         <link rel="stylesheet" type="text/css" href="muchstyle.css">
     </head>
     <body>
+        <input type="radio" name="gender" value="male" checked> Frank<br>
+        <input type="radio" name="gender" value="female"> Jennifer<br>
+        <input type="radio" name="gender" value="other"> Fern<br>
+        <script>
+            
+            </script>
         <form action="/action_page.php">
             Talk to your Plant:<br>
             <input type="text" name="name"><br>
